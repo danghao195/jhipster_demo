@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "hao.dv",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster_demo",
+    "packageName": "hao.dv",
+    "packageFolder": "hao/dv",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2FiYjU0ZThmMDU3YTY4ZjViMmQxN2VlYzYzMGFjODJlY2VlYWQwODM1MDMzYjI4OTJhMGRhNGJjZmVlZjIxMTgyNzgxNGIyOWE5OTAyYjQ5NGZhY2UxMzJmMTNiMzA4ZWJiMGZmOTViNmJkZGEzMGZiMTgwNTMwZTc4OTA4YTc=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "vi"
+    ]
+  }
+}
